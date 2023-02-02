@@ -26,3 +26,5 @@ Following screenshots are presenred as an evidence of creating a token, to deplo
 [KesaiCoin Deployer](https://github.com/AbuzarF/KaseiCoinCrowdsale/blob/main/EvaluationEvidence/KesaiCoinDeployer.png)
 
 [KesaiCoinDeployer2](https://github.com/AbuzarF/KaseiCoinCrowdsale/blob/main/EvaluationEvidence/KesaiCoinDeployer2.png)
+
+[KesaiCoinAddress](https://github.com/AbuzarF/KaseiCoinCrowdsale/blob/main/EvaluationEvidence/KesaiCoinAddress.png)
